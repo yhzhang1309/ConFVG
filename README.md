@@ -5,7 +5,9 @@
 ## 📢 Updates
 - **[2026/01/26]** 🎉🎉🎉 Our paper **ConFVG** has been accepted by **ICLR 2026**!  
 
+## 🖋️ Overview of ConFVG
 
+<img src="Figures/Overview.png" alt="Overview of TOHG Pipeline" width="600">
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
